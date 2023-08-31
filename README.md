@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tusharkumbhar1000@gmail.com**
 
-- ⚡ Fun fact **I am rude**
+- ⚡ Fun fact **I am serious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
