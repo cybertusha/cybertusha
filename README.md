@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/its_spyworld10101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_spyworld10101" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/all in one" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="all in one" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ITS_SPYworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="all in one" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
