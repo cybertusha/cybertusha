@@ -1,32 +1,68 @@
-![logo](https://github.com/cybertusha/cybertusha/blob/main/abc.png)
-<h1 align="center">Hi 👋, I'm Tushar Kumbhar</h1>
-<h3 align="center">A passionate Computer Engineering from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+# Hey, I'm Tushar! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+###
+
+<div align="center">
+  <img height="" src="https://github.com/AbTrax/AbTrax/blob/main/abtrax-banner.png?raw=true"  />
+</div>
+
+###
+
+<h2 align="center">About Me</h2>
+
+###
+
+🌐 I'm passionate about building systems with IoT, cloud, and web technologies.\
+🚀 I'm always exploring emerging tools and platforms to stay ahead in the tech world.\
+🤝 I enjoy collaborating on innovative projects, especially those involving smart devices, automation, or connected systems.\
+🎯 In my free time, I dive into tech blogs, creative coding, and experimenting with new ideas to fuel my inspiration.
+###
+
+<h2 align="center">My Stats</h2>
+
+###
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbTrax&theme=bear" width=750  alt="stats graph"/>
+
+</div>
+
+###
+
+<h2 align="center">Techs I Use</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="52" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" width="52" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" width="52" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" width="52" alt="embeddedc logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rust/rust-original.svg" height="40" width="52" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" width="52" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="52" alt="raspberrypi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height="40" width="52" alt="heroku logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
+</div>
+
+###
+
+<h2 align="center">Find Me</h2>
+
+###
+
+<div align="center">
+  <a href="https://discord.com/users/1077472454563332157" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
+  
+  <a href="https://stackoverflow.com/users/19914762/abtrax" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  /></a>
+</div>
+
+###
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cybertusha&label=Profile%20views&color=0e75b6&style=flat" alt="cybertusha" /> </p>
-
-- 🌱 I’m currently learning **App and web development**
-
-- 👨‍💻 All of my projects are available at [cybertusha.github.io/](cybertusha.github.io/)
-
-- 💬 Ask me about **Html,css,java and android**
-
-- 📫 How to reach me **tusharkumbhar1000@gmail.com**
-
-- ⚡ Fun fact **I am serious**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/its_spyworld10101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_spyworld10101" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ITS_SPYworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="all in one" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybertusha&show_icons=true&locale=en&layout=compact" alt="cybertusha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybertusha&show_icons=true&locale=en" alt="cybertusha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybertusha&" alt="cybertusha" /></p>
