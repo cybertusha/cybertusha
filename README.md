@@ -3,10 +3,9 @@
 ###
 
 <div align="center">
-  <a href="spy.mp4">
-    <img src="spy.png" alt="Watch video" />
-  </a>
+  <img src="spy.gif" alt="Demo Video" />
 </div>
+
 
 
 ###
